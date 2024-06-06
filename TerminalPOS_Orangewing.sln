@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerminalPOS_Orangewing", "AirnurPOS_Redwing\TerminalPOS_Orangewing.csproj", "{A2500696-60A9-4D46-84BC-FB6F8C35FE24}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{B6F02289-6D9D-48BA-A2F7-E8C4F419EA70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2500696-60A9-4D46-84BC-FB6F8C35FE24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2500696-60A9-4D46-84BC-FB6F8C35FE24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2500696-60A9-4D46-84BC-FB6F8C35FE24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2500696-60A9-4D46-84BC-FB6F8C35FE24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F02289-6D9D-48BA-A2F7-E8C4F419EA70}.Debug|Any CPU.ActiveCfg = Debug
+		{B6F02289-6D9D-48BA-A2F7-E8C4F419EA70}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BF18D53-5676-4CFD-93D0-967A950B257C}
+	EndGlobalSection
+EndGlobal
